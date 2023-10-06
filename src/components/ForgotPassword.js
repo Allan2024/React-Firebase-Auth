@@ -49,6 +49,8 @@ export default function ForgotPassword() {
       </Card>
       <div className="w-100 text-center mt-2">
         Need an account? <Link to="/signup">Sign Up</Link>
+        <br></br>
+        <Link to="/solutions">Solutions</Link>
       </div>
     </>
   )
